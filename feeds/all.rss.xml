@@ -1,22 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Paleocomputing: restoring the artefacts of Silicon Valley, a tale</title><link>https://symmetric.github.io/</link><description></description><lastBuildDate>Sun, 17 Nov 2019 15:01:00 -0800</lastBuildDate><item><title>A heartbeat beckons...</title><link>https://symmetric.github.io/A-heartbeat-beckons.html</link><description>&lt;p&gt;A stack of six 375 systems. Plug one in, turn it on. Four show some kind of life, with a fifth iffy. And so it begins.&lt;/p&gt;
-&lt;p&gt;Back in the 1980's, Symmetric Computer Systems started from an ungainly wirewrap prototype that ran a 32 bit virtual memory,
-demand paged timesharing system based on 4th Berkeley Software Distribution. I've been asked for them as historical examples
-bound for the museum.&lt;/p&gt;
-&lt;p&gt;Before they go, they are being fixed up, made functional with all the ancient baggage of hardware/software best arranged. And a
-copy here of the content as well.&lt;/p&gt;
-&lt;p&gt;Of the hundreds of systems spread over the global, a handful still survive. I can still tell you stories of each of them, from the first to the last.&lt;/p&gt;
-&lt;p&gt;And because of this, they can be repaired, made operational, and the bits extracted. Lynne suggestted documenting this so that others might learn/see 
-how to go about this, for it's not for the weak of heart. Just in the few moments of starting this, we appeared to lose and then regain the battle
-many times. Perhaps understanding the strange durability of this 30 year old technology might help others similiarly uncovering the past.&lt;/p&gt;
-&lt;p&gt;First lesson - isolate the power supply with a accurate load of each voltage output, then adjust to slightly above spec. Do so including
-related hardware like the console terminal(s) - you'll find they are considerbly lower than before, and the ripple will be significant. Anything
-that depends on old capacitors is on delicate ground. Also, RS-232 serial communications level shifters may not be reliable - didn't know that two
-systems were working until a Macbook dongle with correct serial signals/parameters received a ROM monitor prompt where the terminal didn't (greater
-range of signal tolerance).&lt;/p&gt;
-&lt;p&gt;This journey begins with that message:&lt;/p&gt;
-&lt;p&gt;Symmetric 32000 Monitor (1.9) 375(bill) 1/6/86 18:11:15
-E SVC
-*&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A big thank you to my friends at the Computer History Museum, Clem Colea's encouragement, some of the 375's user base,
-my coauthor Lynne (wrote the 375 manual, assembled/tested hundreds of 375's), son Benjamin, and daughter Rebecca who have encouraged me to accomplish this.&lt;/strong&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">William Jolitz</dc:creator><pubDate>Sun, 17 Nov 2019 15:01:00 -0800</pubDate><guid isPermaLink="false">tag:symmetric.github.io,2019-11-17:/A-heartbeat-beckons.html</guid><category>about</category><category>beginning</category><category>symmetric</category><category>375</category><category>vintage</category><category>computer</category></item></channel></rss>
+<rss version="2.0"><channel><title>Paleocomputing: restoring the artefacts of Silicon Valley, a tale</title><link>https://williamjolitz.github.io/</link><description></description><lastBuildDate>Sun, 29 Dec 2019 15:15:29 -0000</lastBuildDate></channel></rss>
